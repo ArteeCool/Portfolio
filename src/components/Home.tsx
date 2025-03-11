@@ -8,6 +8,7 @@ const Home = () => {
   return (
     <>
       <div
+        id="Home"
         className="w-full min-h-[75vh] h-full flex items-center"
         style={{
           backgroundColor: bgColor,
